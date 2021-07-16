@@ -8,5 +8,5 @@ eval_steps = 2000
 max_decoding_length = 256
 
 filename_prefix = "processed."
-input_dir = 'temp/run_en_vi_spm/data'
+input_dir = 'temp/run_pt_en_bpe/data'
 vocab_file = input_dir + '/processed.vocab.pickle'
